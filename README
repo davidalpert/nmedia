@@ -1,0 +1,8 @@
+mkdir nmedia
+cd nmedia
+git init
+touch README
+git add README
+git commit -m "first commit"
+git remote add origin {private git repo}
+git push origin master
