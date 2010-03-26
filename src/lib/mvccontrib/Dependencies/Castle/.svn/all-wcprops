@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle
+END
+Castle.Facilities.NHibernateIntegration.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Facilities.NHibernateIntegration.dll
+END
+Castle.Facilities.WcfIntegration.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Facilities.WcfIntegration.dll
+END
+Castle.Components.Common.EmailSender.dll
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Components.Common.EmailSender.dll
+END
+Castle.Services.Transaction.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Services.Transaction.dll
+END
+Castle.Services.Logging.NLogIntegration.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Services.Logging.NLogIntegration.dll
+END
+Castle.Components.Common.TemplateEngine.dll
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Components.Common.TemplateEngine.dll
+END
+Castle.ActiveRecord.Linq.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.ActiveRecord.Linq.dll
+END
+Castle.Components.Pagination.dll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Components.Pagination.dll
+END
+Castle.Facilities.Cache.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Facilities.Cache.dll
+END
+Castle.Windsor.dll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Windsor.dll
+END
+Castle.DynamicProxy.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.DynamicProxy.dll
+END
+Castle.Services.Logging.Log4netIntegration.dll
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Services.Logging.Log4netIntegration.dll
+END
+Castle.Facilities.BatchRegistration.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Facilities.BatchRegistration.dll
+END
+Castle.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Core.dll
+END
+Castle.Facilities.Logging.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Facilities.Logging.dll
+END
+Castle.Components.Scheduler.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Components.Scheduler.dll
+END
+NVelocity.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/NVelocity.dll
+END
+Castle.Facilities.AutomaticTransactionManagement.dll
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Facilities.AutomaticTransactionManagement.dll
+END
+Castle.DynamicProxy2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.DynamicProxy2.dll
+END
+Castle.Components.Validator.dll
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Components.Validator.dll
+END
+Castle.Components.Common.TemplateEngine.NVelocityTemplateEngine.dll
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Components.Common.TemplateEngine.NVelocityTemplateEngine.dll
+END
+Castle.ActiveRecord.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.ActiveRecord.dll
+END
+Castle.MicroKernel.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.MicroKernel.dll
+END
+Castle.VSNetIntegration.CastleWizards.dll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.VSNetIntegration.CastleWizards.dll
+END
+Castle.Facilities.WcfIntegration.Demo.dll
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Facilities.WcfIntegration.Demo.dll
+END
+Castle.Facilities.Remoting.TestComponents.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Facilities.Remoting.TestComponents.dll
+END
+Castle.Components.Scheduler.WindsorExtension.dll
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Components.Scheduler.WindsorExtension.dll
+END
+Castle.Facilities.Synchronize.dll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Facilities.Synchronize.dll
+END
+Castle.Components.Binder.dll
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Components.Binder.dll
+END
+Castle.Facilities.ActiveRecordIntegration.dll
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Facilities.ActiveRecordIntegration.dll
+END
+Castle.Components.DictionaryAdapter.dll
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/Castle/Castle.Components.DictionaryAdapter.dll
+END

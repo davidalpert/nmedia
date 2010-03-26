@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/DotNetLibs/!svn/ver/31/Watin
+END
+WatiN.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/DotNetLibs/!svn/ver/31/Watin/WatiN.Core.dll
+END
+WatiN.Core.UnitTests.dll
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/DotNetLibs/!svn/ver/31/Watin/WatiN.Core.UnitTests.dll
+END
+Interop.SHDocVw.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/DotNetLibs/!svn/ver/31/Watin/Interop.SHDocVw.dll
+END
+WatiN.Core.UnitTests.dll.config
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DotNetLibs/!svn/ver/31/Watin/WatiN.Core.UnitTests.dll.config
+END
+WatiN.Core.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/DotNetLibs/!svn/ver/31/Watin/WatiN.Core.xml
+END

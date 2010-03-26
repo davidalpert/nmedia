@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/DotNetLibs/!svn/ver/34/MavenThought.Testing
+END
+Gallio.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DotNetLibs/!svn/ver/34/MavenThought.Testing/Gallio.dll
+END
+Microsoft.Practices.ServiceLocation.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/DotNetLibs/!svn/ver/18/MavenThought.Testing/Microsoft.Practices.ServiceLocation.dll
+END
+Rhino.Mocks.dll
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/DotNetLibs/!svn/ver/11/MavenThought.Testing/Rhino.Mocks.dll
+END
+StructureMap.AutoMocking.dll
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DotNetLibs/!svn/ver/11/MavenThought.Testing/StructureMap.AutoMocking.dll
+END
+MbUnit.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DotNetLibs/!svn/ver/34/MavenThought.Testing/MbUnit.dll
+END
+StructureMap.dll
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/DotNetLibs/!svn/ver/11/MavenThought.Testing/StructureMap.dll
+END
+MavenThought.Commons.Testing.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/DotNetLibs/!svn/ver/34/MavenThought.Testing/MavenThought.Commons.Testing.dll
+END

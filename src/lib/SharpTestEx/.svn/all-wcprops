@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx/License.txt
+END
+xunit.dll
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx/xunit.dll
+END
+SharpTestsEx.xUnit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx/SharpTestsEx.xUnit.xml
+END
+SharpTestsEx.NUnit.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx/SharpTestsEx.NUnit.dll
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx/nunit.framework.dll
+END
+SharpTestsEx.MSTest.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx/SharpTestsEx.MSTest.dll
+END
+xunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx/xunit.xml
+END
+SharpTestsEx.dll
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx/SharpTestsEx.dll
+END
+SharpTestsEx.snk
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx/SharpTestsEx.snk
+END
+SharpTestsEx.NUnit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx/SharpTestsEx.NUnit.xml
+END
+nunit.framework.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx/nunit.framework.xml
+END
+Read_Me.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx/Read_Me.txt
+END
+SharpTestsEx.MSTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx/SharpTestsEx.MSTest.xml
+END
+SharpTestsEx.xUnit.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/DotNetLibs/!svn/ver/32/SharpTestEx/SharpTestsEx.xUnit.dll
+END

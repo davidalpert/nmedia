@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/AspnetMvc
+END
+Microsoft.Web.Mvc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/AspnetMvc/Microsoft.Web.Mvc.dll
+END
+System.Web.Routing.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/AspnetMvc/System.Web.Routing.dll
+END
+System.Web.Abstractions.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/AspnetMvc/System.Web.Abstractions.dll
+END
+System.Web.Mvc.dll
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/DotNetLibs/!svn/ver/28/MvcContrib/Dependencies/AspnetMvc/System.Web.Mvc.dll
+END

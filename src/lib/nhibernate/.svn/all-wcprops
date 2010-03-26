@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/DotNetLibs/!svn/ver/30/nhibernate
+END
+Antlr3.Runtime.dll
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/DotNetLibs/!svn/ver/30/nhibernate/Antlr3.Runtime.dll
+END
+Iesi.Collections.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DotNetLibs/!svn/ver/27/nhibernate/Iesi.Collections.dll
+END
+NHibernate.ByteCode.Castle.dll
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/DotNetLibs/!svn/ver/27/nhibernate/NHibernate.ByteCode.Castle.dll
+END
+NHibernate.ByteCode.LinFu.dll
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/DotNetLibs/!svn/ver/27/nhibernate/NHibernate.ByteCode.LinFu.dll
+END
+System.Data.SQLite.DLL
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/DotNetLibs/!svn/ver/27/nhibernate/System.Data.SQLite.DLL
+END
+log4net.dll
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/DotNetLibs/!svn/ver/27/nhibernate/log4net.dll
+END
+FluentNHibernate.dll
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/DotNetLibs/!svn/ver/27/nhibernate/FluentNHibernate.dll
+END
+NHibernate.dll
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/DotNetLibs/!svn/ver/27/nhibernate/NHibernate.dll
+END
+LinFu.DynamicProxy.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/DotNetLibs/!svn/ver/27/nhibernate/LinFu.DynamicProxy.dll
+END

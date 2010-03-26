@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<model dslVersion="1.0.0.0" Id="4cdc848e-33d9-478d-befb-df5a9b177ff2" xmlns="http://schemas.microsoft.com/dsltools/ActiveWriter">
+  <additionalImports>AAEAAAD/////AQAAAAAAAAAMAgAAAF1BbHRpbm9yZW4uQWN0aXZlV3JpdGVyLkRzbCwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTkwNTE0MTM5NmRkYjA3OTkEAQAAAKEBU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWMuTGlzdGAxW1tBbHRpbm9yZW4uQWN0aXZlV3JpdGVyLkltcG9ydCwgQWx0aW5vcmVuLkFjdGl2ZVdyaXRlci5Ec2wsIFZlcnNpb249MS4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj05MDUxNDEzOTZkZGIwNzk5XV0DAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgQAAB9BbHRpbm9yZW4uQWN0aXZlV3JpdGVyLkltcG9ydFtdAgAAAAgICQMAAAAAAAAAAAAAAAcDAAAAAAEAAAAAAAAABB1BbHRpbm9yZW4uQWN0aXZlV3JpdGVyLkltcG9ydAIAAAAL</additionalImports>
+  <classes>
+    <modelClass name="Login" schema="dbo" table="login">
+      <targets>
+        <manyToOneRelation Id="0741da25-e069-4b5b-af92-ffadf7885761" targetColumnKey="user_id" targetTable="login" targetPropertyName="Logins" sourceColumn="user_id">
+          <modelClassMoniker name="/4cdc848e-33d9-478d-befb-df5a9b177ff2/User" />
+        </manyToOneRelation>
+      </targets>
+      <properties>
+        <modelProperty Id="577645b6-ebff-4cf5-8bea-dade81574340" name="Id" column="id" columnType="Int32" length="0" notNull="true" keyType="PrimaryKey" />
+        <modelProperty Id="fc66e887-26fd-4ca9-8ff6-19ad176290be" name="LoginId" column="login" columnType="Char" length="0" notNull="true" />
+        <modelProperty Id="a5dd6100-cbe3-4441-8264-23f751524d0c" name="Password" column="password" columnType="Char" length="0" notNull="true" />
+      </properties>
+    </modelClass>
+    <modelClass name="Media" schema="dbo" table="media">
+      <targets>
+        <manyToOneRelation Id="664c005e-a1ee-4973-a107-825ce48f8b9c" targetColumnKey="search_engine_id" targetTable="media" targetPropertyName="Medias" sourceColumn="search_engine_id">
+          <modelClassMoniker name="/4cdc848e-33d9-478d-befb-df5a9b177ff2/SearchEngine" />
+        </manyToOneRelation>
+      </targets>
+      <properties>
+        <modelProperty Id="bbbaa9e6-b8e2-4273-bd0b-c8d30f459c0c" name="Id" column="id" columnType="Int32" length="0" notNull="true" keyType="PrimaryKey" />
+        <modelProperty Id="be94920c-f3f2-41a9-9a80-2dc515b820fc" name="Title" column="title" columnType="Char" length="0" notNull="true" />
+        <modelProperty Id="2736dc8e-2af8-428e-9d8e-b37398c2cd5a" name="ReleaseDate" column="release_date" columnType="Timestamp" length="0" notNull="true" />
+        <modelProperty Id="2fe48d8c-1076-479d-9bc4-13ecdcca53c2" name="AddedDate" column="added_date" columnType="Timestamp" length="0" notNull="true" />
+      </properties>
+      <manyToManyTargets>
+        <manyToManyRelation Id="efaa83ae-9205-4b10-95b1-881cbb09feaa" sourceColumn="media_id" schema="dbo" table="UsersMedia" targetColumn="user_id" targetPropertyName="Media">
+          <modelClassMoniker name="/4cdc848e-33d9-478d-befb-df5a9b177ff2/User" />
+        </manyToManyRelation>
+      </manyToManyTargets>
+    </modelClass>
+    <modelClass name="ReviewEngine" schema="dbo" table="review_engines">
+      <properties>
+        <modelProperty Id="455a872b-77a4-4b1f-be20-1961e6500b15" name="Id" column="id" columnType="Int32" length="0" notNull="true" keyType="PrimaryKey" />
+        <modelProperty Id="b1752eda-65e8-430b-b876-c438e6fae111" name="Title" column="title" columnType="Char" length="0" notNull="true" />
+        <modelProperty Id="e63dcd42-0c01-40e3-af2b-9d5e0a560a49" name="Description" column="description" columnType="Char" length="0" notNull="true" />
+      </properties>
+    </modelClass>
+    <modelClass name="Review" schema="dbo" table="reviews">
+      <targets>
+        <manyToOneRelation Id="eaa7ef78-29e4-4de9-9a59-4dd0321e27b1" targetColumnKey="media_id" targetTable="reviews" targetPropertyName="Reviews" sourceColumn="media_id">
+          <modelClassMoniker name="/4cdc848e-33d9-478d-befb-df5a9b177ff2/Media" />
+        </manyToOneRelation>
+        <manyToOneRelation Id="3555e97a-7a90-409a-90c9-9a2499e9e37d" targetColumnKey="review_engine_id" targetTable="reviews" targetPropertyName="Reviews" sourceColumn="review_engine_id">
+          <modelClassMoniker name="/4cdc848e-33d9-478d-befb-df5a9b177ff2/ReviewEngine" />
+        </manyToOneRelation>
+      </targets>
+      <properties>
+        <modelProperty Id="487e1252-6185-4a7c-aa12-887744393932" name="Id" column="id" columnType="Int32" length="0" notNull="true" keyType="PrimaryKey" />
+        <modelProperty Id="276a3645-d5e1-4392-953d-626ac0d3658d" name="ReviewContent" column="review" columnType="Char" length="0" notNull="true" />
+      </properties>
+    </modelClass>
+    <modelClass name="SearchEngine" schema="dbo" table="search_engines">
+      <properties>
+        <modelProperty Id="b280257d-1557-4d16-8eac-b1d48e311664" name="Id" column="id" columnType="Int32" length="0" notNull="true" keyType="PrimaryKey" />
+        <modelProperty Id="406124a7-9a4b-4ed3-b314-797fc176b9eb" name="Name" column="name" columnType="Char" length="0" notNull="true" />
+        <modelProperty Id="d9fd0faf-264d-46d0-b48b-5dfe57331c17" name="Description" column="description" columnType="Char" length="0" notNull="true" />
+      </properties>
+    </modelClass>
+    <modelClass name="User" schema="dbo" table="users">
+      <properties>
+        <modelProperty Id="e7e3bea7-3ef9-4343-ae94-adc67cf34a1a" name="Id" column="id" columnType="Int32" length="0" notNull="true" keyType="PrimaryKey" />
+        <modelProperty Id="80641f0c-a7e7-4ca8-abe0-7484649d2534" name="FirstName" column="first_name" columnType="Char" length="0" notNull="true" />
+        <modelProperty Id="7ccbba2f-d795-4ac3-9440-f67bc4b31108" name="LastName" column="last_name" columnType="Char" length="0" notNull="true" />
+      </properties>
+    </modelClass>
+    <modelClass name="UsersMedia" table="users_media">
+      <properties>
+        <modelProperty Id="3f41fa32-c186-4eb6-a326-63cb3c3081d7" name="Id" column="id" columnType="Int32" length="0" notNull="true" keyType="PrimaryKey" />
+        <modelProperty Id="b7f9cd2a-0101-47d7-a408-5b32cf822952" name="UserId" column="user_id" columnType="Int32" length="0" notNull="true" />
+        <modelProperty Id="9c8f4c02-a610-47a3-a01c-24c0529557c2" name="MediaId" column="media_id" columnType="Int32" length="0" notNull="true" />
+      </properties>
+    </modelClass>
+    <modelClass name="Movies" schema="dbo" table="movies">
+      <properties>
+        <modelProperty Id="8883c401-e0fe-4616-b530-59b7f0cbb4aa" name="Id" column="id" columnType="Int32" length="0" notNull="true" keyType="PrimaryKey" />
+        <modelProperty Id="eaae8095-d465-428f-9c39-8089cd6b3d81" name="MediaId" column="media_id" columnType="Int32" length="0" notNull="true" />
+      </properties>
+    </modelClass>
+  </classes>
+</model>
