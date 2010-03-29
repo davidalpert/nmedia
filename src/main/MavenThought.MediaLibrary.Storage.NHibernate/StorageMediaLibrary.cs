@@ -22,11 +22,11 @@ namespace MavenThought.MediaLibrary.Storage.NHibernate
        /// <summary>
         /// Initializes the repository using 
         /// </summary>
-        public StorageMediaLibrary(string connectionString)
+        public StorageMediaLibrary(string connectionStringKey)
         {
            var configurator = MsSqlConfiguration
                .MsSql2008
-               .ConnectionString(connectionString);
+               .ConnectionString(connectionStringKey.ToMachineSpecificConnectionString());
 
             #if DEBUG
             configurator.ShowSql();

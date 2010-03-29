@@ -10,4 +10,4 @@ component "MoviesController", MoviesController:
   @lifestyle = "transient"
   
 component IMediaLibrary, StorageMediaLibrary:
-  connectionString = "Data Source=.\\SQLEXPRESS;Initial Catalog=medialib;Integrated Security=SSPI;"
+  connectionStringKey = "medialib"
